@@ -8,11 +8,9 @@ otherwise.
 
 The _Device Guard and Credential Guard hardware readiness tool_ released by
 Microsoft can disable the said Windows 10 features along with Hyper-V:
-1. Download the latest version of the tool from [here](https://www.microsoft.com/en-us/download/details.aspx?id=53337) dgreadiness-tool. The
+1. Download the latest version of the tool from [here](https://github.com/InetiX/Disabling-Hyper-V/releases/download/dgreadiness_v3.6/dgreadiness_v3.6.zip) dgreadiness-tool. The
 following steps assume version 3.6.
 # 🛡️ Device Guard / Hyper-V Disabler Tool
-
-A "stupid-proof" automated wrapper for the `DG_Readiness_Tool_v3.6.ps1`. This script automates the pathing and provides critical safety warnings to prevent users from being locked out of their systems.
 
 > [!WARNING]
 > ### 🛑 CRITICAL STEP: REMOVE YOUR PASSWORD
