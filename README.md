@@ -1,15 +1,4 @@
-# Disabling-Hyper-V
 
-Certain advanced Windows 10 features, such as _Device Guard_ (in particular,
-_Hypervisor-protected code integrity_ or HVCI) and _Credential Guard_, can
-prevent Hyper-V from being completely disabled. In other words, when any of
-these features are enabled, so is Hyper-V, even though Windows may report
-otherwise.
-
-The _Device Guard and Credential Guard hardware readiness tool_ released by
-Microsoft can disable the said Windows 10 features along with Hyper-V:
-1. Download the latest version of the tool from [here](https://github.com/InetiX/Disabling-Hyper-V/releases/download/dgreadiness_v3.6/dgreadiness_v3.6.zip) dgreadiness-tool. The
-following steps assume version 3.6.
 # 🛡️ Device Guard / Hyper-V Disabler Tool
 
 > [!WARNING]
