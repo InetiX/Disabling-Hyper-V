@@ -21,6 +21,9 @@ A "stupid-proof" automated wrapper for the `DG_Readiness_Tool_v3.6.ps1`. This sc
 ---
 
 ## 🚀 How to Use
+
+**Download** [dgreadiness_v3.6](https://github.com/InetiX/Disabling-Hyper-V/releases/download/dgreadiness_v3.6/dgreadiness_v3.6.zip)
+
 1. **Unzip**
 2. **Right-click** `RunMe.bat` and select **"Run as Administrator"**.
 3. **Confirm the Popup:** A warning box will appear. Read it carefully and click **YES**.
