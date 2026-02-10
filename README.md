@@ -7,18 +7,22 @@
 
 ---
 
+
+<img width="1050" height="670" alt="image" src="https://github.com/user-attachments/assets/3846723f-21f5-4e89-a6e5-bd20ace79d26" />
+
 ## 🚀 How to Use
 
 **Download** [dgreadiness_v3.6](https://github.com/InetiX/Disabling-Hyper-V/releases/download/dgreadiness_v3.6/dgreadiness_v3.6.zip)
 
-1.Run RunMe.bat If it's didn't solve and you didn't got all green status in System move to step 2!!!
-After restart don't forget to press F3, accept changes.
 
-2. Run RunMe.bat Harder. thx for Killua🩷
+**1.Run** **RunMe.bat If it's didn't solve and you didn't got all green status in System move to step 2!!!**
+**After restart don't forget to press F3, accept changes.**
 
-After restart don't forget to press F3, accept changes.
+**2. Run** **RunMe_Harder.bat . thx for  Killua🩷***
+**After restart don't forget to press F3, accept changes.**
 
-Then get to launcher and check again System should be all green!
+<img width="1050" height="670" alt="2026-02-10_18-10-46" src="https://github.com/user-attachments/assets/126c6522-6ac0-4eec-837c-2e7e6d535cdc" />
+
 
 ---
 
