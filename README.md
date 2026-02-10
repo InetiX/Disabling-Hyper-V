@@ -1,5 +1,5 @@
 
-# 🛡️ Device Guard / Hyper-V Disabler Tool
+# 🛡️ VBS / Hyper-V Disabler Tool
 
 > [!WARNING]
 > ### 🛑 CRITICAL STEP: REMOVE YOUR PASSWORD
