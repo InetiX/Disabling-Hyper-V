@@ -14,7 +14,8 @@
 1.Run RunMe.bat If it's didn't solve and you didn't got all green status in System move to step 2!!!
 After restart don't forget to press F3, accept changes.
 
-2. Run RunMe.bat Harder. thx for Killua🩷*
+2. Run RunMe.bat Harder. thx for Killua🩷
+
 After restart don't forget to press F3, accept changes.
 
 Then get to launcher and check again System should be all green!
