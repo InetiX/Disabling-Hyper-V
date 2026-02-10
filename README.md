@@ -9,7 +9,7 @@
 
 ## 🚀 How to Use
 
-**Download** [dgreadiness_v3.6][(https://github.com/InetiX/Disabling-Hyper-V/releases/download/dgreadiness_v3.6/dgreadiness_v3.6.zip)]
+**Download** [dgreadiness_v3.6][https://github.com/InetiX/Disabling-Hyper-V/releases/download/dgreadiness_v3.6/dgreadiness_v3.6.zip]
 
 1.Run RunMe.bat If it's didn't solve and you didn't got all green status in System move to step 2!!!
 After restart don't forget to press F3, accept changes.
