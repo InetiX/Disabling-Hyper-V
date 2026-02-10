@@ -3,20 +3,21 @@
 
 > [!WARNING]
 > ### 🛑 CRITICAL STEP: REMOVE YOUR PASSWORD
-> You **MUST** remove your Windows PIN, Password, and Face ID / Windows Hello **BEFORE** running this script. If you skip this, you will be locked out of your account after the reboot.
+> You **MUST** remove your Windows PIN, Password,Face ID / Windows Hello **BEFORE** running this script. If you skip this, you could potentional  be locked out of your account after the reboot.
 
 ---
 
 ## 🚀 How to Use
 
-**Download** [dgreadiness_v3.6](https://github.com/InetiX/Disabling-Hyper-V/releases/download/dgreadiness_v3.6/dgreadiness_v3.6.zip)
+**Download** [dgreadiness_v3.6](https://github.com/InetiX/Disabling-Hyper-V/releases/download/dgreadiness_v3.6/dgreadiness_v3.6.zip])
 
-1. **Unzip**
-2. **Right-click** `RunMe.bat` and select **"Run as Administrator"**.
-3. **Confirm the Popup:** A warning box will appear. Read it carefully and click **YES**.
-4. **The GO Command:** The terminal will open. Type `GO` and press **Enter** to start the process.
-5. **The PowerShell Run:** The script will automatically execute the tool with the `-Disable` flag.
-6. **Reboot:** When finished, the script will ask if you want to restart. Choose **1** (Yes).
+1.Run RunMe.bat If it's didn't solve and you didn't got all green status in System move to step 2!!!
+After restart don't forget to press F3, accept changes.
+
+2. Run RunMe.bat Harder. thx for Killua🩷*
+After restart don't forget to press F3, accept changes.
+
+Then get to launcher and check again System should be all green!
 
 ---
 
