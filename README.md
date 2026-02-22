@@ -18,8 +18,6 @@
 **1.Run** **RunMe.bat If it's didn't solve and you didn't got all green status in System move to step 2!!!**
 **After restart don't forget to press F3, accept changes.**
 
-**2. Run** **RunMe_Harder.bat . thx for  Killua🩷***
-**After restart don't forget to press F3, accept changes.**
 
 <img width="1050" height="670" alt="2026-02-10_18-10-46" src="https://github.com/user-attachments/assets/126c6522-6ac0-4eec-837c-2e7e6d535cdc" />
 
